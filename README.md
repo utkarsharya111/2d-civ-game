@@ -11,5 +11,7 @@ A small 2D tile-based game built with Pygame to demonstrate how reducing entropy
 4. Install pygame:
    ```bash
    pip install pygame
-5. run -- python main.py
+5. run:
+    ```bash
+    python main.py
 
